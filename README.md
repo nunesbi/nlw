@@ -6,7 +6,7 @@
 
 Projeto construido com base nos meus gostos pessoais.
 
-🔗 [Clique aqui para acessar](https://nunesbi.github.io/nlw-esports-explorer)
+🔗 [Clique aqui para acessar](https://nunesbi.github.io/portfolio-games)
 
 ## ⚔️ Tecnologias 
 
