@@ -1,10 +1,10 @@
-# NLW eSports - Trilha Explorer
+# Portfolio-Games
 
 ![preview](./.github/preview.png)
 
-> Trilha Explorer
+> Portfólio
 
-Projeto construido no evento Next Level Week da Rocketseat.
+Projeto construido com base nos meus gostos pessoais.
 
 🔗 [Clique aqui para acessar](https://nunesbi.github.io/nlw-esports-explorer)
 
